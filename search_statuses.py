@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 30 21:51:23 2015
+Created on Thu Oct  1 12:38:56 2015
 
 @author: rishiraj
 """
+
 #%%
 import twitter
 import json
+
 def load_credentials():
     cred=[];
     for line in open('twitter.txt','r').read().splitlines():
@@ -24,22 +26,20 @@ load_credentials();
 auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET, CONSUMER_KEY, CONSUMER_SECRET  )
 t = twitter.Twitter(auth=auth)
 
+#query
 q = '#inspire'
-count=10
+count=100
 
 search_results = t.search.tweets(q=q, count=count)
 statuses = search_results['statuses']
 
-for _ in range(5):
-    print "Lenght of statuses", len(statuses)
-    try:
-        next_results = search_results['search_metadata']['next_results']
-    except KeyError, e:
-        break;
-    
-    kwargs = dict([kv.split('=') for kv in next_results[1:].split("&")])
-    search_results = t.search.tweets(**kwargs)
-    statuses+=search_results['statuses']
+f = open('tweets.txt','w');
 
-statuses[1]['text']
-#print json.dumps(statuses[0],indent=1)
+for i in xrange(count):
+    print(statuses[i]['text']);
+    f.write((statuses[i]['text']).encode('utf-8')) ;
+    f.write("\n\n")    
+    print();
+f.close();
+
+print encode('utf02')
