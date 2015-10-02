@@ -9,10 +9,10 @@ set([u'#NahiPhislenge', u'#SmileForAGoodDay', u'#Beautility', u'Umesh Yadav', u'
 
 
 Frequency Distribution for search query '#inspire'
-+----------+-------+ __
-| Word     | Count |__
-+----------+-------+__
-| #inspire |    73 |__
++----------+-------+__<br \>
+| Word     | Count |__<br \>
++----------+-------+__<br \>
+| #inspire |    73 |__<br \>
 | RT       |    41 |__
 | to       |    35 |__
 | the      |    27 |__
