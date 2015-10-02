@@ -26,7 +26,8 @@ load_credentials();
 auth = twitter.oauth.OAuth(OAUTH_TOKEN, OAUTH_TOKEN_SECRET, CONSUMER_KEY, CONSUMER_SECRET  )
 t = twitter.Twitter(auth=auth)
 
-t.statuses.home_timeline()
+st = t.statuses.home_timeline()
+st
 t.statuses.user_timeline(screen_name="rogerfederer")
 
 for i in xrange(10):
