@@ -36,4 +36,5 @@ print in_trends
 world_trends_set = set([trend['name'] for trend in world_trends[0]['trends']])
 in_trends_set = set([trend['name'] for trend in in_trends[0]['trends']])
 common_trends = world_trends_set.intersection(in_trends_set)
-print common_trends
+print in_trends_set
+print world_trends_set

@@ -52,7 +52,7 @@ for i in range(1,5):
 
 t.statuses.update(status="Auto attached.", media_ids=img[0]);
 
-
+'''
 ###random tweets
 import random
 import string
@@ -60,3 +60,4 @@ import string
 digits = "".join( [random.choice(string.digits) for i in xrange(8)] )
 chars = "".join( [random.choice(string.letters) for i in xrange(15)] )
 print digits + chars
+'''
