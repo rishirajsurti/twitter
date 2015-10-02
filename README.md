@@ -9,35 +9,35 @@ set([u'#NahiPhislenge', u'#SmileForAGoodDay', u'#Beautility', u'Umesh Yadav', u'
 
 
 Frequency Distribution for search query '#inspire'
-+----------+-------+
-| Word     | Count |
-+----------+-------+
-| #inspire |    73 |
-| RT       |    41 |
-| to       |    35 |
-| the      |    27 |
-| and      |    15 |
-| -        |    15 |
-| #Inspire |    15 |
-| in       |    13 |
-| you      |    13 |
-| a        |    10 |
-+----------+-------+
-
-+----------------+-------+
-| Screen Name    | Count |
-+----------------+-------+
-| 10MillionMiler |     8 |
-| CarleytheKing  |     3 |
-| ivrezek        |     3 |
-| thecsp         |     3 |
-| sportscotland  |     2 |
-| Payal_Gujjar   |     2 |
-| YDanceActive   |     2 |
-| SchoolsofSport |     2 |
-| georgiarowey   |     2 |
-| ucanshineuk    |     2 |
-+----------------+-------+
++----------+-------+ __
+| Word     | Count |__
++----------+-------+__
+| #inspire |    73 |__
+| RT       |    41 |__
+| to       |    35 |__
+| the      |    27 |__
+| and      |    15 |__
+| -        |    15 |__
+| #Inspire |    15 |__
+| in       |    13 |__
+| you      |    13 |__
+| a        |    10 |__
++----------+-------+__
+__
++----------------+-------+__
+| Screen Name    | Count |__
++----------------+-------+__
+| 10MillionMiler |     8 |__
+| CarleytheKing  |     3 |__
+| ivrezek        |     3 |__
+| thecsp         |     3 |__
+| sportscotland  |     2 |__
+| Payal_Gujjar   |     2 |__
+| YDanceActive   |     2 |__
+| SchoolsofSport |     2 |__
+| georgiarowey   |     2 |__
+| ucanshineuk    |     2 |__
++----------------+-------+__
 
 +----------------+-------+
 | Hashtag        | Count |
