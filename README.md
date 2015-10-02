@@ -8,48 +8,49 @@ Indian Trends:
 set([u'#NahiPhislenge', u'#SmileForAGoodDay', u'#Beautility', u'Umesh Yadav', u'#HappydentFriend', u'Mahesh Sharma', u'Swachh Bharat', u'#GandhiJayanti', u'The Absence of Regret', u'#MannequinsOnABreak'])
 
 
-Frequency Distribution for search query '#inspire'
+Frequency Distribution for search query '#inspire' <br \>
 +----------+-------+__<br \>
 | Word     | Count |__<br \>
 +----------+-------+__<br \>
 | #inspire |    73 |__<br \>
-| RT       |    41 |__
-| to       |    35 |__
-| the      |    27 |__
-| and      |    15 |__
-| -        |    15 |__
-| #Inspire |    15 |__
-| in       |    13 |__
-| you      |    13 |__
-| a        |    10 |__
-+----------+-------+__
+| RT       |    41 |__<br \>
+| to       |    35 |__<br \>
+| the      |    27 |__<br \>
+| and      |    15 |__<br \>
+| -        |    15 |__<br \>
+| #Inspire |    15 |__<br \>
+| in       |    13 |__<br \>
+| you      |    13 |__<br \>
+| a        |    10 |__<br \>
++----------+-------+__<br \>
 __
-+----------------+-------+__
-| Screen Name    | Count |__
-+----------------+-------+__
-| 10MillionMiler |     8 |__
-| CarleytheKing  |     3 |__
-| ivrezek        |     3 |__
-| thecsp         |     3 |__
-| sportscotland  |     2 |__
-| Payal_Gujjar   |     2 |__
-| YDanceActive   |     2 |__
-| SchoolsofSport |     2 |__
-| georgiarowey   |     2 |__
-| ucanshineuk    |     2 |__
-+----------------+-------+__
-
-+----------------+-------+
-| Hashtag        | Count |
-+----------------+-------+
-| inspire        |    77 |
-| Inspire        |    17 |
-| qoutesoftheday |     9 |
-| jitu           |     9 |
-| bijak          |     9 |
-| quote          |     9 |
-| motivation     |     8 |
-| quotes         |     7 |
-| ifckr          |     6 |
-| art            |     6 |
-+----------------+-------+
++----------------+-------+__<br \>
+| Screen Name    | Count |__<br \>
++----------------+-------+__<br \>
+| 10MillionMiler |     8 |__<br \>
+| CarleytheKing  |     3 |__<br \>
+| ivrezek        |     3 |__<br \>
+| thecsp         |     3 |__<br \>
+| sportscotland  |     2 |__<br \>
+| Payal_Gujjar   |     2 |__<br \>
+| YDanceActive   |     2 |__<br \>
+| SchoolsofSport |     2 |__<br \>
+| georgiarowey   |     2 |__<br \>
+| ucanshineuk    |     2 |__<br \>
++----------------+-------+__<br \>
+<br \><br \>
++----------------+-------+ <br \>
+| Hashtag        | Count |<br \>
++----------------+-------+<br \>
+| inspire        |    77 |<br \>
+| Inspire        |    17 |<br \>
+| qoutesoftheday |     9 |<br \>
+| jitu           |     9 |<br \>
+| bijak          |     9 |<br \>
+| quote          |     9 |<br \>
+| motivation     |     8 |<br \>
+| quotes         |     7 |<br \>
+| ifckr          |     6 |<br \>
+| art            |     6 |<br \>
++----------------+-------+<br \>
+<br \>
